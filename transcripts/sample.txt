@@ -1,0 +1,4 @@
+ test, test, test. This is a sample recording of a possible patient note. The
+ patient name is John Doe. His date of birth is 12th of December 2003. He came in
+ for a blood check-up. All his vital signs came back normal. He came back as
+ perfectly healthy. He'll have a future appointment scheduled.
